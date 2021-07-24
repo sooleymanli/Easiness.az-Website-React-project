@@ -1,5 +1,3 @@
-
-# To Do List (React App)
 ## Live Demo
 1. #### [Live Demo (easiness.az) ](https://easiness.az) 
 
