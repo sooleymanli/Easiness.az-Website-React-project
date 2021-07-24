@@ -1,0 +1,14 @@
+.about-caption{
+    font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+color: #2e2e2e;
+
+text-align: center;
+
+
+}
+
+.content ul li {
+    margin-left: 20px;
+}

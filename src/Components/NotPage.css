@@ -1,0 +1,12 @@
+.error{
+    font-size: 72px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.erros-paragraph{
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    text-transform: uppercase;
+}

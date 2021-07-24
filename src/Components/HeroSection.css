@@ -1,0 +1,357 @@
+.cap {
+    color: #2e2e2e;
+    margin-bottom: 30px;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+
+  }
+
+.cap span {
+    color: #e96b56;
+  }
+
+
+
+.desc{
+    width: 80%;
+    -webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+    margin: 0 auto 30px auto;
+    color: #2e2e2e;
+    font-family: "Poppins", sans-serif;
+
+  }
+
+  .sr-only{
+display: none;  }
+.carousel-indicators li{
+    margin-left: 10px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 25%;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 0rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    
+}
+
+
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    top: 90%;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    margin-left: 15%;
+    list-style: none;
+}
+
+
+
+@media only screen  and (min-width:1400px){
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+       
+    }
+}
+@media only screen and (max-width: 1024px) {
+    #heros {
+        margin-bottom: -280px;
+    }
+    .carousel-caption{
+      top: 15%;
+    }
+    
+    #heros h2{
+        font-size: 7vw;
+    }
+
+    #heros p{
+        font-size: 2.5vw;
+    }
+
+
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        top: 55%;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+        display: none;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    #heros {
+        margin-bottom: -450px;
+    }
+    .carousel-caption{
+      top: 10%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 3.5vw;
+    }
+
+
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        top: 45%;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+        display: none;
+
+    }
+
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    #heros {
+        margin-bottom: -400px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 3.5vw;
+    }
+
+
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        top: 28%;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+        display: none;
+
+    }
+
+
+}
+
+
+@media only screen and (width: 540px) and (height:720px) {
+    #heros {
+        margin-bottom: -350px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 3.5vw;
+    }
+
+
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        top: 35%;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+        display: none;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 428px) and (max-height:992px) {
+    #heros {
+        margin-bottom: -520px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 2.5vw;
+    }
+}
+
+@media only screen and (max-width: 414px) and (max-height:736px) {
+    #heros {
+        margin-bottom: -350px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 2.5vw;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    #heros {
+        margin-bottom: -480px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 2.5vw;
+    }
+
+
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        top: 25%;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+        display: none;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 375px) and (max-height:667px) {
+    #heros {
+        margin-bottom: -350px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 2.5vw;
+    }
+}
+
+@media only screen and (max-width: 320px) and (max-height:667px) {
+    #heros {
+        margin-bottom: -300px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 2.5vw;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 280px) and (max-height:653px) {
+    #heros {
+        margin-bottom: -400px;
+    }
+    .carousel-caption{
+      top: 5%;
+    }
+    
+    #hero h2{
+        font-size: 9vw;
+    }
+
+    #hero p{
+        font-size: 2.5vw;
+    }
+}
+
+
+

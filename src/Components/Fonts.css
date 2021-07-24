@@ -1,0 +1,32 @@
+.services-cap{
+    letter-spacing: 1px;
+color: #e44f35;
+font-family: "Raleway", sans-serif;
+}
+
+.services-paragraph{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+
+.list-unstyled li{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+
+padding-left: 10px;
+}
+
+.list-unstyled li i{
+ margin-right: 5px;
+ color: #e44f35;
+}
+
+.back-button{
+    color: #e44f35;
+font-family: "Raleway", sans-serif;
+
+}
+.back-button:hover{
+    color: #802717;
+
+}

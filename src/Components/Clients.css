@@ -1,0 +1,29 @@
+.clients-img{
+    width: 120px;
+    margin-left: 40px;
+    opacity: 0.8;
+   
+}
+.clients-img:hover{
+    opacity: 1;
+    
+}
+
+.clients-body{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.clients-slider{
+    margin-top: -100px;
+}
+
+@media only screen and (max-width:992px){
+    .clients-slider{
+        margin-top:-50px;
+    }
+}
