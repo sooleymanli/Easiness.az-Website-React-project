@@ -3,6 +3,7 @@
 
 ## Live Demo
 1. #### [Live Demo (easiness.az) ](https://easiness.az) 
+2. #### [Live Demo (github.io) ](https://sooleymanli.github.io/Easiness.az-Website-React-project/) 
 
 ## Screenshot
 ![ScreenShot](screenshot.gif)
