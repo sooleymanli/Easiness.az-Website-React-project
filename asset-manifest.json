@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Easiness.az-Website-React-project/static/css/main.1acbcc77.chunk.css",
+    "main.js": "/Easiness.az-Website-React-project/static/js/main.e1f39381.chunk.js",
+    "main.js.map": "/Easiness.az-Website-React-project/static/js/main.e1f39381.chunk.js.map",
+    "runtime-main.js": "/Easiness.az-Website-React-project/static/js/runtime-main.531b8356.js",
+    "runtime-main.js.map": "/Easiness.az-Website-React-project/static/js/runtime-main.531b8356.js.map",
+    "static/css/2.6d34f509.chunk.css": "/Easiness.az-Website-React-project/static/css/2.6d34f509.chunk.css",
+    "static/js/2.63d0f586.chunk.js": "/Easiness.az-Website-React-project/static/js/2.63d0f586.chunk.js",
+    "static/js/2.63d0f586.chunk.js.map": "/Easiness.az-Website-React-project/static/js/2.63d0f586.chunk.js.map",
+    "static/js/3.1c73b47d.chunk.js": "/Easiness.az-Website-React-project/static/js/3.1c73b47d.chunk.js",
+    "static/js/3.1c73b47d.chunk.js.map": "/Easiness.az-Website-React-project/static/js/3.1c73b47d.chunk.js.map",
+    "index.html": "/Easiness.az-Website-React-project/index.html",
+    "static/css/2.6d34f509.chunk.css.map": "/Easiness.az-Website-React-project/static/css/2.6d34f509.chunk.css.map",
+    "static/css/main.1acbcc77.chunk.css.map": "/Easiness.az-Website-React-project/static/css/main.1acbcc77.chunk.css.map",
+    "static/js/2.63d0f586.chunk.js.LICENSE.txt": "/Easiness.az-Website-React-project/static/js/2.63d0f586.chunk.js.LICENSE.txt",
+    "static/media/emek.276b5e8e.png": "/Easiness.az-Website-React-project/static/media/emek.276b5e8e.png",
+    "static/media/evcil.87653504.jpg": "/Easiness.az-Website-React-project/static/media/evcil.87653504.jpg",
+    "static/media/goktas.21d47e87.png": "/Easiness.az-Website-React-project/static/media/goktas.21d47e87.png",
+    "static/media/gumus.8d2ce8e7.jpg": "/Easiness.az-Website-React-project/static/media/gumus.8d2ce8e7.jpg",
+    "static/media/kadrlar.0884d58b.jpg": "/Easiness.az-Website-React-project/static/media/kadrlar.0884d58b.jpg",
+    "static/media/kontakt.3e62669c.png": "/Easiness.az-Website-React-project/static/media/kontakt.3e62669c.png",
+    "static/media/logo2.669a9dd1.png": "/Easiness.az-Website-React-project/static/media/logo2.669a9dd1.png",
+    "static/media/slide-1.8d024f3e.jpg": "/Easiness.az-Website-React-project/static/media/slide-1.8d024f3e.jpg",
+    "static/media/slide-2.446c5e5c.jpg": "/Easiness.az-Website-React-project/static/media/slide-2.446c5e5c.jpg",
+    "static/media/slide-3.a6d3451d.jpg": "/Easiness.az-Website-React-project/static/media/slide-3.a6d3451d.jpg",
+    "static/media/tuktuk.8749c502.png": "/Easiness.az-Website-React-project/static/media/tuktuk.8749c502.png",
+    "static/media/yuk.1d324a90.svg": "/Easiness.az-Website-React-project/static/media/yuk.1d324a90.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531b8356.js",
+    "static/css/2.6d34f509.chunk.css",
+    "static/js/2.63d0f586.chunk.js",
+    "static/css/main.1acbcc77.chunk.css",
+    "static/js/main.e1f39381.chunk.js"
+  ]
+}
