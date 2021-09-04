@@ -4,7 +4,6 @@
 ## Live Demo
 1. #### [Live Demo (Easiness.az) ](https://easiness.az) 
 2. #### [Live Demo (Github.io) ](https://sooleymanli.github.io/Easiness.az-Website-React-project/) 
-3. #### [Live Demo (Fuadsuleymanli.com/Easiness) ](https://fuadsuleymanli.com/Demos/easiness/) 
 
 
 ## Screenshot
